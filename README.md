@@ -39,8 +39,8 @@ A fully interactive Streamlit dashboard for customer segmentation and associatio
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/mall-customers-dashboard.git
-cd mall-customers-dashboard
+git clone https://github.com/YusufHakosho1/Data-Mining-Project.git
+cd Data-Mining-Project
 ```
 
 ### 2. Create & Activate a Virtual Environment
@@ -136,15 +136,7 @@ Then open your browser at http://localhost:8501.
 
 ---
 
-## 🧪 Testing
 
-Run basic checks:
-
-```bash
-python test.py
-```
-
-Add your own unit tests under `tests/` and include with `pytest`.
 
 ---
 
