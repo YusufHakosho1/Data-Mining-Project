@@ -1,0 +1,9 @@
+{
+    // point Code Runner’s python to your venv
+    "code-runner.executorMap": {
+      "python": "${workspaceFolder}/.venv/bin/python -u"
+    },
+    // make sure it runs in the integrated terminal (so activation works)
+    "code-runner.runInTerminal": true
+  }
+  
