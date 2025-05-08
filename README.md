@@ -129,8 +129,8 @@ Then open your browser at http://localhost:8501.
 
 1. **Data Explorer**: filter by genre, age, income, score; download filtered CSV.  
 2. **Clustering**:  
-   - **K-Means**: choose _k_, toggle clusters via legend or multiselect.  
-   - **Hierarchical**: pick linkage method & distance threshold; interact with legend.  
+   - **K-Means**: choose _k_, toggle clusters via multiselect.  
+   - **Hierarchical**: pick linkage method & distance threshold;   
 3. **Association Rules**: tune bin counts, support & confidence, generate & export rules.  
 4. **Predict Segment**: enter a new customer’s features to assign a cluster.
 
